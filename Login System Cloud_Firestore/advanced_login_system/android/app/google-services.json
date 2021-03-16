@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348291611067",
+    "project_id": "advanced-login-system",
+    "storage_bucket": "advanced-login-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348291611067:android:901ae3e7a2d9b84b8a6c9e",
+        "android_client_info": {
+          "package_name": "com.example.advanced_login_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348291611067-600fdt7s99743nrj1upg4gqi248r4kn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIpUDxr4dqJO_FZaWkojBAMEmC6qGBCOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348291611067-600fdt7s99743nrj1upg4gqi248r4kn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
